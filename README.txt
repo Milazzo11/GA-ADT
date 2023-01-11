@@ -9,6 +9,7 @@ The included "test.c" file contains code initializing a GA instance and a basic 
 FUTURE POTENTIAL FEATURES:
 ==========================
 - sex multiplicity option
+- multi-sex option
 - incest prevention option
 - crowding option
 - self hyperparameter optimization option
