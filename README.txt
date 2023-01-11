@@ -13,3 +13,5 @@ FUTURE POTENTIAL FEATURES:
 - incest prevention option
 - crowding option
 - self hyperparameter optimization option
+
+[[ I don't exactly have much -- or any -- free tme, though... and I am also working on other projects, so it may be some time before additional updates are posted to this project.  The current GA implementation, though, is fully functional ]]
