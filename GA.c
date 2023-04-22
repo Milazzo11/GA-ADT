@@ -1,4 +1,4 @@
-// File: GA.h
+// File: GA.c
 //
 // Description: GA (genetic algorithm) ADT implementation
 //
